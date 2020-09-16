@@ -50,3 +50,5 @@
 [instagram]: https://www.instagram.com/anthonyrhenz/
 [linkedin]: https://www.linkedin.com/in/anthony-rhenz-bennett/
 [languagelink]: #
+
+<!-- LloydTao was here 16/09/2020 -->
