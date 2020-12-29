@@ -1,7 +1,7 @@
 ### Hi, I'm [Anthony][website] 👋
 
 ## I'm currently a student at the University of Exeter
-- 🔭 I'm currently working on making money social
+- 🔭 I'm currently working on making communication easy!
 - 🌱 Always learning, with a (lack of) focus, on full stack
 - 📝 Open to discussing contract work
 - ⚡ Fun fact: None
