@@ -43,7 +43,7 @@
 <img align="left" alt="Anthony's Github Stats" src="https://github-readme-stats.vercel.app/api?username=anthonyrhenz&show_icons=true&hide_border=true&hide=stars,contribs&hide_title=true" />
 
 [website]: http://rhe.nz/
-[twitter]: https://twitter.com/dannydehaze
+[twitter]: https://twitter.com/tonyrhenz
 [youtube]: https://www.youtube.com/channel/UCNwp5Rnnm3kUhSs9EVyOoSg
 [instagram]: https://www.instagram.com/anthonyrhenz/
 [linkedin]: https://www.linkedin.com/in/anthony-rhenz-bennett/
