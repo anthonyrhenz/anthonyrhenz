@@ -1,10 +1,9 @@
 ### Hi, I'm [Anthony][website] 👋
 
-## I'm currently a student at the University of Exeter
-- 🔭 I'm currently working on making communication easy!
-- 🌱 Always learning, with a (lack of) focus, on full stack
-- 📝 Open to discussing contract work
-- ⚡ Fun fact: None
+## I've just graduated with an MSci in Computer Science from the University of Exeter!
+- 🔭 I'm currently working on making organisation of the past and scheduling of the future easy!
+- 🌱 Always learning, with a focus on full stack atm
+- 📝 Looking for work
 
 ### Connect with me:
 
@@ -19,26 +18,25 @@
 ### Languages and Tools:
 
 [<img align="left" alt="Visual Studio Code" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][languagelink]
+[<img align="left" alt="Python" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />][languagelink]
+[<img align="left" alt="Kotlin" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png" />][languagelink]
+[<img align="left" alt="CSharp" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png" />][languagelink]
 [<img align="left" alt="HTML5" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][languagelink]
 [<img align="left" alt="CSS3" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][languagelink]
 [<img align="left" alt="JavaScript" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][languagelink]
 [<img align="left" alt="Node.js" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />][languagelink]
-[<img align="left" alt="SQL" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />][languagelink]
+[<img align="left" alt="React" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />][languagelink]
 [<img align="left" alt="MySQL" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />][languagelink]
-[<img align="left" alt="MongoDB" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />][languagelink]
 [<img align="left" alt="Git" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][languagelink]
-[<img align="left" alt="GitHub" width="32px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][languagelink]
-[<img align="left" alt="HTML5" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][languagelink]
 
 <br />
 <br />
 
 ---
 
-### 🛠 Latest Projects
+### 🛠 Fun Projects
 - [iBeaconer - A Windows Bluetooth iBeacon solution](https://github.com/anthonyrhenz/iBeaconer)
-- [Pebbles - An collaborative implementation of pebble game](https://github.com/anthonyrhenz/Pebbles)
-- [Velvet - A mediocre attempt at VR, solving mental health issues](https://github.com/anthonyrhenz/velvet)
+- [Velvet - A first attempt at VR, approaching mental health issues](https://github.com/anthonyrhenz/velvet)
 
 ---
 
