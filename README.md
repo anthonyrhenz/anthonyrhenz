@@ -40,7 +40,7 @@
 
 ---
 
-<img align="left" alt="Anthony's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=anthonyrhenz&show_icons=true&hide_border=true" />
+<img align="left" alt="Anthony's Github Stats" src="https://github-readme-stats.vercel.app/api?username=anthonyrhenz&show_icons=true&hide_border=true&hide=stars,contribs" />
 
 [website]: http://rhe.nz/
 [twitter]: https://twitter.com/dannydehaze
