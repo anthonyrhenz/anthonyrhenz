@@ -3,7 +3,7 @@
 ## I've just graduated with an MSci in Computer Science from the University of Exeter!
 - 🔭 I'm currently working on making organisation of the past and scheduling of the future easy!
 - 🌱 Always learning, with a focus on full stack atm
-- 📝 Looking for work
+- 📝 Technical Consultant at Compu-J
 
 ### Connect with me:
 
@@ -40,7 +40,7 @@
 
 ---
 
-<img align="left" alt="Anthony's Github Stats" src="https://github-readme-stats.vercel.app/api?username=anthonyrhenz&show_icons=true&hide_border=true&hide=stars,contribs&hide_title=true" />
+<!-- <img align="left" alt="Anthony's Github Stats" src="https://github-readme-stats.vercel.app/api?username=anthonyrhenz&show_icons=true&hide_border=true&hide=stars,contribs&hide_title=true" /> -->
 
 [website]: http://rhe.nz/
 [twitter]: https://twitter.com/tonyrhenz
