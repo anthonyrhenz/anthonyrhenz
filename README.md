@@ -1,9 +1,9 @@
 ### Hi, I'm [Anthony][website] 👋
 
-## I've just graduated with an MSci in Computer Science from the University of Exeter!
-- 🔭 I'm currently working on making organisation of the past and scheduling of the future easy!
-- 🌱 Always learning, with a focus on full stack atm
-- 📝 Technical Consultant at Compu-J
+## I'm a Senior Developer and Project Manager at Compu-J Ltd.
+- ✨ Specialist in ML research and AI integration
+- 🌱 Always learning, with a continuous focus on full-stack solutions
+- 📝 Tech Lead at Compu-J
 
 ### Connect with me:
 
@@ -37,6 +37,7 @@
 ### 🛠 Fun Projects
 - [iBeaconer - A Windows Bluetooth iBeacon solution](https://github.com/anthonyrhenz/iBeaconer)
 - [Velvet - A first attempt at VR, approaching mental health issues](https://github.com/anthonyrhenz/velvet)
+- All recent and current works hosted on a company GitLab instance
 
 ---
 
