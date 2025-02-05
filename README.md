@@ -1,6 +1,6 @@
-### Hi, I'm [Anthony][website] 👋
+## Hi, I'm [Anthony][website] 👋
 
-## I'm a Senior Developer and Project Manager at Compu-J Ltd.
+### I'm a Senior Developer and Project Manager at Compu-J Ltd.
 - ✨ Specialist in ML research and AI integration
 - 🌱 Always learning, with a continuous focus on full-stack solutions
 - 📝 Tech Lead at Compu-J
