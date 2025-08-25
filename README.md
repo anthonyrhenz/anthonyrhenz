@@ -1,6 +1,6 @@
 ## Hi, I'm [Anthony][website] 👋
 
-### I'm a Senior Developer and Project Manager at Compu-J Ltd.
+### I'm Lead Developer at Compu-J.
 - ✨ Specialist in ML research and AI integration
 - 🌱 Always learning, with a continuous focus on full-stack solutions
 - 📝 Tech Lead at Compu-J
@@ -8,10 +8,8 @@
 ### Connect with me:
 
 [<img align="left" alt="rhe.nz" width="32px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="anthonyrhenz | YouTube" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="anthonyrhenz | Twitter" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="anthonyrhenz | LinkedIn" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="anthonyrhenz | Instagram" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
 
@@ -38,6 +36,7 @@
 ---
 
 ### 🛠 Fun Projects
+
 - [iBeaconer - A Windows Bluetooth iBeacon solution](https://github.com/anthonyrhenz/iBeaconer)
 - [Velvet - A first attempt at VR, approaching mental health issues](https://github.com/anthonyrhenz/velvet)
 - All recent and current works hosted on a company GitLab instance
@@ -48,8 +47,6 @@
 
 [website]: http://rhe.nz/
 [twitter]: https://twitter.com/tonyrhenz
-[youtube]: https://www.youtube.com/channel/UCNwp5Rnnm3kUhSs9EVyOoSg
-[instagram]: https://www.instagram.com/anthonyrhenz/
 [linkedin]: https://www.linkedin.com/in/anthony-rhenz-bennett/
 [languagelink]: #
 
