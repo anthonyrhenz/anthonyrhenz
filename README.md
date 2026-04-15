@@ -1,9 +1,9 @@
 ## Hi, I'm [Anthony][website] 👋
 
-### I'm Lead Developer at Compu-J.
+### I'm Cofounder at Appa.
 - ✨ Specialist in ML research and AI integration
 - 🌱 Always learning, with a continuous focus on full-stack solutions
-- 📝 Tech Lead at Compu-J
+- 📝 CTO and Cofounder at Appa
 
 ### Connect with me:
 
